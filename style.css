@@ -4,3 +4,23 @@ body {
   background-color: #334155;
   color: #ffffff;
 }
+h1 {
+  color: #d9f99d;
+}
+input {
+  padding: 8px 15px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+button {
+  padding: 8px 15px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  background-color: #22d3ee;
+  color: white;
+}
+#show-age-diff {
+  font-size: 20px;
+}
